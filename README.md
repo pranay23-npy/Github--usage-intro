@@ -1,7 +1,4 @@
 # Github--usage-intro
-
-This my actual first github folder or respository 
-usage work
-
 <br>
+This is my actual first folder or respository usage work
 Author - Pranay
